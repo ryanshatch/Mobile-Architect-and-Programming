@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
 <meta name=Generator content="Microsoft Word 15 (filtered)">
-<h1><b><i>Mobile UI Development & Designing GrapeSwap's UI:</i></b></h1>
+<h2><b><i>Mobile UI Development & Designing GrapeSwap's UI:</i></b></h2>
   
 <!-- <style> -->
 <!--
