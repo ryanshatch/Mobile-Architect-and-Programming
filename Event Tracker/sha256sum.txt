@@ -1,0 +1,5 @@
+3c875c2b6005a385075fc124b8ac7e35db64a6aee1896e0c8412391100c2cde3  C:/Users/rshat/Documents/Programming/Github/Mobile-Architect-and-Programming/Event Tracker/AllowPermissions.png
+6a329187d00a97c2adc9d43c66bd9c65a621e61843bdc2424836f3ded9281a45  C:/Users/rshat/Documents/Programming/Github/Mobile-Architect-and-Programming/Event Tracker/DataDisplay.png
+9e1cd108d0b0a1fc9b0280531770ef630c119aed99cbf443a57a13897cfe5335  C:/Users/rshat/Documents/Programming/Github/Mobile-Architect-and-Programming/Event Tracker/Event Tracker v1.zip.gpg
+5463111f76118d2a607b9853586792ace7d81c92815a4e490bfa178c1e8d57bc  C:/Users/rshat/Documents/Programming/Github/Mobile-Architect-and-Programming/Event Tracker/Event Tracker v1.zip.gpg.sig
+6dbff74f667f5fa9ca0635b92ade5ac926e8f01d52250f5181aa9463a36cbf95  C:/Users/rshat/Documents/Programming/Github/Mobile-Architect-and-Programming/Event Tracker/login.png
